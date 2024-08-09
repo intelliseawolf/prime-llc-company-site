@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/project-1-1.png",
+    "imageForHome": "/assets/project-1.png",
+    "client": "Firefly: Web3 & NFT Social App",
+    "category": "Social Aggregator",
+    "date": "July, 2023",
+    "year": "2023",
+    "content": "<div class=\"data\"><h4>Firefly: Web3 & NFT Social App</h4></div><p>Firefly is a social app that combines elements of web2 and web3 and uses decentralized identifiers (DIDs) to create a seamless, secure social experience. <br/><br/>Why settle for a one-dimensional social media experience when you can have it all with Firefly? Firefly’s heterogeneous social stream allows you to view people’s content from Lens, Farcaster, Mirror, Snapshot, etc.<br/><br/>With Firefly, you can:<br/><br/></p><div class=\"data\"><h5>SOCIAL LIKE A PRO</h5></div><div class=\"data__list\"><ul><li> <i class=\"icon-05\"></i>Follow your interests. Post, Repost, Reply to posts, Share or Like - just like Twitter!</li><li> <i class=\"icon-05\"></i>Tap into what’s going on in the web3 universe.</li><li> <i class=\"icon-05\"></i>Search people and trending topics to stay updated on your friends & other decentralized social networks such as Lens and Farcaster.</li><li> <i class=\"icon-05\"></i>Connect with your social network through noteworthy links, photos, and videos.</ul></div><div class=\"data\"><h5>DIVE INTO WEB3</h5></div><div class=\"data__list\"><ul><li> <i class=\"icon-05\"></i>Stay on top of important dates with the Web3 calendar feature</li><li> <i class=\"icon-05\"></i>Bond with your network using a web2+3 profile that’s easy to switch and browse</li><li> <i class=\"icon-05\"></i>Discover and engage with web3 content and trending topics</li><li> <i class=\"icon-05\"></i>Monitor whales & celebrities’ web3 footprints</li><li> <i class=\"icon-05\"></i>Deepen web3 understanding</li></ul></div>"
+  },
+  {
+    "id": 2,
+    "image": "/assets/project-2-1.png",
+    "imageForHome": "/assets/project-2.png",
+    "client": "Tulip Protocol",
+    "category": "Solana",
+    "date": "October, 2022",
+    "year": "2022",
+    "content": "<div class=\"data\"><h4>Welcome to Tulip 🌷</h4><h5>Solana's Yield Aggregation Homestead</h5></div><p>Tulip Protocol is the first yield aggregation platform built on Solana with auto-compounding vault strategies.<br /><br />The dApp (decentralized application) is designed to take advantage of Solana's low cost, high efficiency blockchain; allowing the vault strategies to compound frequently. This benefits farmers with higher APYs, not requiring active management, and lower gas fees.<br /><br />We also integrated leveraged yield farming & lending pools into the platform, providing an investment with suitable risk rewards for any DeFi user.<br /><br /></p><div class=\"data\"><h5>What options does Tulip offer, and which is right for me?</h5></div><p>Tulip Protocol currently offers three types of yield products, “Vaults”, “Lending” & “Leveraged Farming”. You can jump to the relevant segment of the gitbook docs, that explains the one you are most interested in!<br /><br /></p><div class=\"data\"><h5>All vaults and code is experimental. Please use at your own discretion.</h5></div><p>If you are in need of assistance, contact our support team: <br /><br />Discord: https://discord.gg/tulip<br />Telegram: https://t.me/tulipprotocol</p>"
+  },
+  {
+    "id": 3,
+    "image": "/assets/project-3-1.png",
+    "imageForHome": "/assets/project-3.png",
+    "client": "Omnitier",
+    "category": "Healthcare",
+    "date": "April, 2023",
+    "year": "2023",
+    "content": "<div class=\"data\"><h4>End-to-End Genomic Analysis</h4></div><div class=\"data__list\"><ul><li> <i class=\"icon-05\"></i>Enabling fast, accurate, secure, low cost and scalable genomic analysis, on easy-to-use standalone appliances.</li><li> <i class=\"icon-05\"></i>Empowering researchers and clinicians to explore and run their own custom methodologies</li></ul></div><div class=\"data\"><h4>Why choose OmniTier for my genomic analysis?</h4><div class=\"data__list\"><ul><li> <i class=\"icon-05\"></i>On-premise analysis appliances provide lower cost analysis, greater control over patient data and large, data storage cost-savings.</li><li> <i class=\"icon-05\"></i>Supports Illumina, MGI Tech, Oxford Nanopore Technology and PacBio sequencing.</li><li> <i class=\"icon-05\"></i>Two variant callers; higher quality, proprietary, Novos variant caller, as well as standard Broad Institute (GATK) variant caller; SNPs, indels, structural variants, copy number variants and mitochondrial. Identifies more true-positives and returns fewer false-positive variants.</li><li> <i class=\"icon-05\"></i>Reduces days of secondary analysis and variant interpretation into minutes through automation and AI technology.</li><li> <i class=\"icon-05\"></i>Built to scale, from analyzing a few exomes up to thousands of whole genomes. Your OmniTier infrastructure can scale up as your analytics volumes grow.</li><li> <i class=\"icon-05\"></i>End-to-end, easy to use, built-in analysis workflows. Designed for researchers, clinicians and bioinformaticians, rather than IT and software specialists.</li><li> <i class=\"icon-05\"></i>Targeting low to high volume clinical research diagnostics and screening.</li></ul></div>"
+  }
+]
