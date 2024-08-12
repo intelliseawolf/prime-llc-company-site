@@ -64,8 +64,9 @@ const LowerHeader = () => {
                 <TwitterIcon width={25} height={25} />
               </a>
               <a
-                href="/"
+                href="https://www.linkedin.com/in/prime-shavar-horton"
                 target="_blank"
+                rel="noreferrer"
                 className="corzo-top-bar-social-icon"
                 title="pinterest"
               >
