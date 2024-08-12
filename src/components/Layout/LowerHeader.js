@@ -72,8 +72,9 @@ const LowerHeader = () => {
                 <LinkedinIcon width={25} height={25} />
               </a>
               <a
-                href="/"
+                href="https://medium.com/@pwavetechnologiesllc"
                 target="_blank"
+                rel="noreferrer"
                 className="corzo-top-bar-social-icon"
                 title="twitter"
               >

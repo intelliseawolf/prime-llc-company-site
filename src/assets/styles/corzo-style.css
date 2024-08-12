@@ -1201,60 +1201,6 @@ body.blog .corzo-sidebar-style-none,
   padding-bottom: 69px;
 }
 
-.corzo-body h1,
-.corzo-body h2,
-.corzo-body h3,
-.corzo-body h4,
-.corzo-body h5,
-.corzo-body h6,
-.corzo-body .corzo-title-font,
-.corzo-body .gdlr-core-title-font {
-  font-family: "Big Shoulders Display", display;
-}
-
-.woocommerce-breadcrumb,
-.woocommerce span.onsale,
-.single-product.woocommerce div.product p.price .woocommerce-Price-amount,
-.single-product.woocommerce #review_form #respond label {
-  font-family: "Big Shoulders Display", display;
-}
-
-.corzo-navigation .sf-menu > li > a,
-.corzo-navigation .sf-vertical > li > a,
-.corzo-navigation-font {
-  font-family: "Jost", sans-serif;
-}
-
-.corzo-body,
-.corzo-body .gdlr-core-content-font,
-.corzo-body input,
-.corzo-body textarea,
-.corzo-body button,
-.corzo-body select,
-.corzo-body .corzo-content-font,
-.gdlr-core-audio .mejs-container * {
-  font-family: "Jost", sans-serif;
-}
-
-.corzo-body .gdlr-core-info-font,
-.corzo-body .corzo-info-font {
-  font-family: "Jost", sans-serif;
-}
-
-.corzo-body .gdlr-core-blog-info-font,
-.corzo-body .corzo-blog-info-font {
-  font-family: "Jost", sans-serif;
-}
-
-.corzo-body .gdlr-core-quote-font {
-  font-family: "Lobster", display;
-}
-
-.corzo-body .gdlr-core-testimonial-content,
-blockquote {
-  font-family: "Playfair Display", serif;
-}
-
 .corzo-body h1 {
   font-size: 52px;
 }

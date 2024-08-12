@@ -287,8 +287,141 @@
 }
 
 .Collapsible__trigger {
-  font-size: 26px;
+  font-size: 23px;
   font-weight: 600;
   letter-spacing: 0px;
+  text-transform: none;
+}
+
+.about-us-banner {
+  background-image: url("/public/assets/about-us-banner.jpg");
+}
+
+.big-name-customer {
+  padding: 115px 0px 95px 0px;
+}
+
+.big-name-customer .gdlr-core-pbf-background.gdlr-core-parallax.gdlr-core-js {
+  background-image: url("/public/assets/big-name-customer-bg.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.big-name-customer
+  .gdlr-core-title-item-caption.gdlr-core-info-font.gdlr-core-skin-caption {
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #d32525;
+}
+
+.big-name-customer .gdlr-core-title-item-caption-prefix {
+  border-color: #d32525;
+  height: 13px;
+  margin-right: 14px;
+}
+
+.big-name-customer .gdlr-core-title-item-title.gdlr-core-skin-title {
+  font-size: 46px;
+  letter-spacing: 0px;
+  text-transform: none;
+  color: #1b1b1b;
+}
+
+.big-name-customer .gdlr-core-text-box-item-content {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-transform: none;
+  color: #090909;
+}
+
+.expertise-page {
+  padding: 80px 0px 30px 0px;
+}
+
+.expertise-page .gdlr-core-pbf-background.gdlr-core-parallax.gdlr-core-js {
+  background-image: url("/public/assets/expertise-bg.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.expertise-page .gdlr-core-title-item-title.gdlr-core-skin-title {
+  font-size: 44px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  text-transform: none;
+  color: #1b1b1b;
+}
+
+.expertise-page .gdlr-core-divider-line.gdlr-core-skin-divider {
+  border-color: #d32525;
+  border-width: 4px;
+  border-radius: 3px;
+}
+
+.expertise-page .gdlr-core-text-box-item-content {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-transform: none;
+  color: #353535;
+}
+
+.vision-and-value {
+  padding: 0px 0px 30px 0px;
+}
+
+.vision-and-value .section-background {
+  background-image: url("/public/assets/vision-and-value.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.vision-and-value
+  .gdlr-core-pbf-column-content-margin.gdlr-core-js.gdlr-core-column-extend-left {
+  margin: 0px;
+  padding-top: 150px;
+  padding-right: 0px;
+  padding-bottom: 150px;
+  height: 522.188px;
+}
+.vision-and-value
+  .gdlr-core-pbf-background.gdlr-core-parallax.gdlr-core-js.second-bg {
+  background-image: url("/public/assets/vision-and-value-left.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.vision-and-value
+  .gdlr-core-title-item-caption.gdlr-core-info-font.gdlr-core-skin-caption {
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #d32525;
+}
+
+.vision-and-value .gdlr-core-title-item-caption-prefix {
+  border-color: #d32525;
+  height: 13px;
+  margin-right: 14px;
+}
+
+.vision-and-value .gdlr-core-title-item-title.gdlr-core-skin-title {
+  font-size: 47px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  text-transform: none;
+  color: #1b1b1b;
+}
+
+.vision-and-value .gdlr-core-icon-list-content {
+  color: #1b1b1b;
+  font-size: 19px;
+  font-weight: 500;
   text-transform: none;
 }

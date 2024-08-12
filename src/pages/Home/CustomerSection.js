@@ -71,10 +71,9 @@ const CustomerSection = () => {
                       <div class="gdlr-core-testimonial-content-wrap">
                         <div class="gdlr-core-testimonial-content gdlr-core-info-font gdlr-core-skin-content">
                           <p>
-                            Far far away, behind the word mountains, far from
-                            the countries Vokalia and Consonantia, there live
-                            the blind texts. Separated they live in
-                            Bookmarksgrove right at the coast of the Semantics.
+                            Prime Wave Technologies, Their expertise in software
+                            development is unmatched, and they delivered a
+                            product that exceeded our expectations.
                           </p>
                         </div>
                         <div class="gdlr-core-testimonial-author-wrap clearfix">
