@@ -425,3 +425,21 @@
   font-weight: 500;
   text-transform: none;
 }
+
+.product-list {
+  margin: 100px 0;
+}
+
+.product-list .gdlr-core-portfolio-title.gdlr-core-skin-title {
+  font-size: 26px;
+  font-weight: 700;
+  text-transform: none;
+}
+
+.gdlr-core-portfolio-medium-feature .gdlr-core-portfolio-content-wrap {
+  background-color: #d32525;
+}
+
+.product-list .gdlr-core-portfolio-title.gdlr-core-skin-title {
+  color: white;
+}
