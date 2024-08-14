@@ -20,7 +20,7 @@ const information = [
   {
     id: 3,
     icon: <LocationIcon />,
-    title: "Phone",
+    title: "Address",
     description: "375 Baskins Rd, Rock Hill, SC 29730",
     value: "View On Google Map",
     link: "https://www.google.com/maps/place/375+E+Baskins+Rd,+Rock+Hill,+SC+29730/data=!4m2!3m1!1s0x885689ee5f63f8a7:0x3120b8cf2ab24c69?sa=X&ved=1t:242&ictx=111",
