@@ -47,16 +47,18 @@ const LowerHeader = () => {
           <div className="corzo-main-menu-right-wrap clearfix ">
             <div className="corzo-top-bar-right-social">
               <a
-                href="/"
+                href="https://www.facebook.com/profile.php?id=61564180174777&mibextid=LQQJ4d"
                 target="_blank"
+                rel="noreferrer"
                 className="corzo-top-bar-social-icon"
                 title="facebook"
               >
                 <FacebookIcon width={25} height={25} />
               </a>
               <a
-                href="/"
+                href="https://x.com/primewavetech"
                 target="_blank"
+                rel="noreferrer"
                 className="corzo-top-bar-social-icon"
                 title="linkedin"
               >
