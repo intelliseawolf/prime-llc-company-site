@@ -7,7 +7,6 @@ const MainFooter = () => {
     { href: "/", name: "Home" },
     { href: "/about", name: "About" },
     { href: "/products", name: "Products" },
-    { href: "/technology", name: "Technology" },
     { href: "/careers", name: "Career" },
     { href: "/contact", name: "Contact" },
   ];
