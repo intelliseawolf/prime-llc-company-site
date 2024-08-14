@@ -467,3 +467,33 @@
   letter-spacing: 0px;
   text-transform: none;
 }
+
+@keyframes slideIn {
+  from {
+    display: none;
+    transform: translateY(-20px);
+  }
+  to {
+    display: block;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideOut {
+  from {
+    display: block;
+    transform: translateY(0);
+  }
+  to {
+    display: none;
+    transform: translateY(-20px);
+  }
+}
+
+.menu-item-show {
+  animation: slideIn 0.3s ease-out forwards;
+}
+
+.menu-item-hide {
+  animation: slideOut 0.3s ease-out forwards;
+}
