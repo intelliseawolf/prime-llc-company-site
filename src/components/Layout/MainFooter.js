@@ -141,7 +141,7 @@ const MainFooter = () => {
                       fontWeight: 600,
                     }}
                   >
-                    (650) 521-9948
+                    (650) 374-1448
                   </span>
                 </p>
               </div>

@@ -24,7 +24,7 @@ const TopHeader = () => {
                 Have Any Questions?
               </div>
               <div class="corzo-logo-right-text-content">
-                Call Now <u>(650) 521-9948</u>
+                Call Now <u>(650) 374-1448</u>
               </div>
             </div>
           </div>
