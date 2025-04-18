@@ -51,7 +51,7 @@ const LowerHeader = () => {
                 target="_blank"
                 rel="noreferrer"
                 className="corzo-top-bar-social-icon"
-                title="facebook"
+                title="Facebook"
               >
                 <FacebookIcon width={25} height={25} />
               </a>
@@ -60,7 +60,7 @@ const LowerHeader = () => {
                 target="_blank"
                 rel="noreferrer"
                 className="corzo-top-bar-social-icon"
-                title="linkedin"
+                title="Twitter"
               >
                 <TwitterIcon width={25} height={25} />
               </a>
@@ -69,7 +69,7 @@ const LowerHeader = () => {
                 target="_blank"
                 rel="noreferrer"
                 className="corzo-top-bar-social-icon"
-                title="pinterest"
+                title="Linkedin"
               >
                 <LinkedinIcon width={25} height={25} />
               </a>
@@ -78,7 +78,7 @@ const LowerHeader = () => {
                 target="_blank"
                 rel="noreferrer"
                 className="corzo-top-bar-social-icon"
-                title="twitter"
+                title="Medium"
               >
                 <MediumIcon width={25} height={25} />
               </a>
