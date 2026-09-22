@@ -8,7 +8,7 @@ const information = [
     icon: <PhoneIcon />,
     title: "Phone",
     description: "Contact Us Over Phone",
-    value: "(650) 374-1448",
+    value: "(650) 534-2584",
   },
   {
     id: 2,
